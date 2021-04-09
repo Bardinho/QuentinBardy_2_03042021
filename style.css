@@ -518,3 +518,17 @@ a {
     margin-bottom: 0;
   }
 }
+
+@media (max-width: 1024px) and (min-width: 992px) {
+  /* tout ici */
+}
+
+@media (max-width: 576px) {
+  /* tout ici */
+  main {
+    padding: 0;
+  }
+  aside {
+    padding: 1rem 2rem;
+  }
+}
