@@ -525,7 +525,7 @@ a {
 
 @media (max-width: 576px) {
   /* tout ici */
-  main {
+  main.main {
     padding: 0;
   }
   aside {
